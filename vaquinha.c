@@ -24,7 +24,19 @@ int main ()
         printf("\n           ||     ||   \n\n");
     }
     else
+    {
         printf("Perdeu T-U-D-O!!!\n");
+        printf(" _______________\n");
+        printf("|               |\n");
+        printf("| `    ´ `    ´ |\n");
+        printf("|  `  ´   `  ´  |\n");
+        printf("|   `´     `´   |\n");
+        printf("|               |\n");
+        printf("|       ´`      |\n");
+        printf("|      ´  `     |\n");
+        printf("|     ´    `    |\n");
+        printf("|_______________|\n");
+    }
 
     return EXIT_SUCCESS;
 }
