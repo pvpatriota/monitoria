@@ -14,14 +14,14 @@ int main ()
     if ( (x<50 && y<35) || (x>50 && y<90) || (x==50 && y<90) )
     {
         printf("Ganhou uma vaquinha!!\n");
-        printf("___________");
-        printf("\n< ME GANHOU >");
+        printf("_____________");
+        printf("\n< Mûûûûûûûû >");
         printf("\n-----------");
         printf("\n   o  ^__^ ");
         printf("\n    o (oo) _______");
         printf("\n      (__)(       )-´`´ ");
         printf("\n           ||----w |   ");
-        printf("\n           ||     ||   ");
+        printf("\n           ||     ||   \n\n");
     }
     else
         printf("Perdeu T-U-D-O!!!\n");
